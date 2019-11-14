@@ -1,30 +1,30 @@
 @charset "utf-8";
 
 body {
-  background-image: url(../img/loewe5-500.jpg);
+  background-image: url(../img/loewe5-angepasst2.jpg);
 }
 
 @media (min-width: 500px) {
   body {
-    background-image: url(../img/loewe5-1000.jpg);
+    background-image: url(../img/loewe5-angepasst2-500.jpg);
   }
 }
 
 @media (min-width: 1000px) {
   body {
-    background-image: url(../img/loewe5-1500.jpg);
+    background-image: url(../img/loewe5-angepasst2-1000.jpg);
   }
 }
 
 @media (min-width: 1500px) {
   body {
-    background-image: url(../img/loewe5-2000.jpg);
+    background-image: url(../img/loewe5-angepasst2-1500.jpg);
   }
 }
 
 @media (min-width: 2000px) {
   body {
-    background-image: url(../img/loewe5-2500.jpg);
+    background-image: url(../img/loewe5-angepasst2-2000.jpg);
   }
 }
 
